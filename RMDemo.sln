@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMDemo.ServiceLayer", "RMDemo.ServiceLayer\RMDemo.ServiceLayer.csproj", "{B7FEE9E5-CBA8-4909-B9A2-9584A96A3C90}"
+	GlobalSection(PureCMSourceControlProviderSolutionProperties) = preSolution
+		SolutionIsControlled = True
+	EndGlobalSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMDemo.Tests", "RMDemo.Tests\RMDemo.Tests.csproj", "{6D860AC9-DA6E-4EE7-A250-6ADD77AA3D4D}"
+	GlobalSection(PureCMSourceControlProviderSolutionProperties) = preSolution
+		SolutionIsControlled = True
+	EndGlobalSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMDemo.Domain", "RMDemo.Domain\RMDemo.Domain.csproj", "{EDDFCD30-7BF0-4148-AF89-55FAEB3277E1}"
+	GlobalSection(PureCMSourceControlProviderSolutionProperties) = preSolution
+		SolutionIsControlled = True
+	EndGlobalSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMDemo.DataLayer", "RMDemo.DataLayer\RMDemo.DataLayer.csproj", "{A1BF963C-44FE-43D7-ADB8-71D9131744C1}"
+	GlobalSection(PureCMSourceControlProviderSolutionProperties) = preSolution
+		SolutionIsControlled = True
+	EndGlobalSection
+EndProject
+Global
+	GlobalSection(PureCMSourceControlProviderSolutionProperties) = preSolution
+		SolutionIsControlled = True
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7FEE9E5-CBA8-4909-B9A2-9584A96A3C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FEE9E5-CBA8-4909-B9A2-9584A96A3C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FEE9E5-CBA8-4909-B9A2-9584A96A3C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FEE9E5-CBA8-4909-B9A2-9584A96A3C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D860AC9-DA6E-4EE7-A250-6ADD77AA3D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D860AC9-DA6E-4EE7-A250-6ADD77AA3D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D860AC9-DA6E-4EE7-A250-6ADD77AA3D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D860AC9-DA6E-4EE7-A250-6ADD77AA3D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDFCD30-7BF0-4148-AF89-55FAEB3277E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDFCD30-7BF0-4148-AF89-55FAEB3277E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDFCD30-7BF0-4148-AF89-55FAEB3277E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDFCD30-7BF0-4148-AF89-55FAEB3277E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BF963C-44FE-43D7-ADB8-71D9131744C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BF963C-44FE-43D7-ADB8-71D9131744C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BF963C-44FE-43D7-ADB8-71D9131744C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BF963C-44FE-43D7-ADB8-71D9131744C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
